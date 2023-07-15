@@ -72,7 +72,7 @@ main{
     margin-top: 2rem;
     padding: 2rem;
     width:60%;
-    height: 80vh;
+    min-height: 80vh;
     background-color: #FAFAFA;
     border-radius: 8px;
     box-shadow: 1px 1px 8px 1px rgba(131, 126, 126, 0.1);
